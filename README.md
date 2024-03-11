@@ -21,10 +21,10 @@ The program can be stopped by pressing the Ctrl and C keys simultaneously.
 ## Notes on Building the Project ##
 To develop this application, the following libraries were used:
 Libraries:
-pygame
-pywinusb
-pynput (for console mode)
-keyboard (for console mode)
+- pygame
+- pywinusb
+- pynput 
+- keyboard
 Please ensure that these libraries are installed if you don't have them already. You can install them using the following commands:
 
 - pip install pygame
