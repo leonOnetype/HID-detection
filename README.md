@@ -25,10 +25,12 @@ Libraries:
 - pywinusb
 - pynput 
 - keyboard
+  
 Please ensure that these libraries are installed if you don't have them already. You can install them using the following commands:
 
 - pip install pygame
 - pip install pywinusb
 - pip install pynput
 - pip install keyboard
+  
 Make sure to have the necessary dependencies installed in order to build and run the application successfully.
