@@ -11,6 +11,7 @@ Detectable devices include mice, external keyboards, and joysticks.
 The images representing the devices will be grayed out with a message indicating that the devices are not yet connected or have been disconnected.
 Information about a device, such as its name, ID, vendor, and vendor ID, will be displayed next to the image representing the device once it is connected.
 Each key press on the keyboard, joystick, or mouse button click will highlight the corresponding key or button on the image representing the device.
+
 For console mode:
 
 All types of devices are detectable.
